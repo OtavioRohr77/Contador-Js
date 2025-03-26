@@ -1,3 +1,7 @@
+* {
+    margin: auto;
+    text-align: center;
+}
 #contador {
     font-size: 2rem;
     margin: 20px;
